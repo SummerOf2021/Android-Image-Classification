@@ -1,0 +1,1 @@
+The model size is large so it has been divided by 4
